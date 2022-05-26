@@ -18,9 +18,9 @@
 👤 **Author**
 
 - Shudufhadzo Khorombi
-- GitHub: [@githubhandle](https://github.com/ShuduK)
-- Twitter: [@twitterhandle](https://twitter.com/KhorombiShudu)
-- LinkedIn: [LinkedIn](https://za.linkedin.com/in/shudufhadzo-khorombi-a87023134?trk=pub-pbmap)
+- GitHub: [@ShuduK](https://github.com/ShuduK)
+- Twitter: [@KhorombiShudu](https://twitter.com/KhorombiShudu)
+- LinkedIn: [Shudufhadzo Khorombi](https://za.linkedin.com/in/shudufhadzo-khorombi-a87023134?trk=pub-pbmap)
 
 ## 🤝 Contributing
 
